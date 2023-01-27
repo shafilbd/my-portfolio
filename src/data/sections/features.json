@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "icon": "pe-7s-paint-bucket",
+        "title": "As a Designer",
+        "content": "I mostly enjoy to design the web template, Apps and brochures. To design those i use Adobe XD, Figma."
+    },
+    {
+        "id": 2,
+        "icon": "pe-7s-phone",
+        "title": "Front-End Development",
+        "content": "I like to code things from scratch, and enjoy bringing ideas to life in the browser. Languages i speak with HTML, Pug, Slim, CSS, Sass, Less"
+    },
+    {
+        "id": 3,
+        "icon": "pe-7s-display1",
+        "title": "Back-end Development",
+        "content": "Creating logics, and adding new featured to develope is most passionate work for me. The logics i think with PYTHON, PHP, Nodejs"
+    },
+    {
+        "id": 4,
+        "icon": "pe-7s-diskette",
+        "title": "Digital Margeting",
+        "content": "After develop most challenging point to bring target traffic & rank on search engine. Covered Keyword Research, On-Page SEO, analytics."
+    }
+]
